@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.exe
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.deps.json
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.runtimeconfig.json
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.dll
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\ref\RND Function.dll
+C:\Users\ASUS\source\repos\RND Function\bin\Debug\net5.0-windows\RND Function.pdb
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND_Function.Form1.resources
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.dll
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\ref\RND Function.dll
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.pdb
+C:\Users\ASUS\source\repos\RND Function\obj\Debug\net5.0-windows\RND Function.genruntimeconfig.cache

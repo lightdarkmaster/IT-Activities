@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\bin\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.exe
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\bin\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.deps.json
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\bin\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.runtimeconfig.json
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\bin\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.dll
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\bin\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.pdb
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone_4_Sta._Fe__Leyte__Information_System.Form1.resources
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone_4_Sta._Fe__Leyte__Information_System.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.dll
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\refint\Zone 4 Sta. Fe, Leyte  Information System.dll
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.pdb
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\Zone 4 Sta. Fe, Leyte  Information System.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Zone 4 Sta. Fe, Leyte  Information System\obj\Debug\net6.0-windows\ref\Zone 4 Sta. Fe, Leyte  Information System.dll

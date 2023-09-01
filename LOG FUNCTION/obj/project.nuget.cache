@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efL/XGxcgZaQei9+HEJroQbmrOiXkxcDq6nX6EWr/jTtc1HjISDvfRGjEvUaRrnVzVHr0WxF2/6ygRT0Vi+KLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\LOG FUNCTION\\LOG FUNCTION.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

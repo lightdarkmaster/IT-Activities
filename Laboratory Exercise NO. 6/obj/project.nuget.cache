@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jz3x9PBGPbZWqyy41XUqSLC0xrp2S3FAedLstzyEas95UKq+dh6t9OrX8eP/1WIeS9xomO6zDt889iAYI09kNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Laboratory Exercise NO. 6\\Laboratory Exercise NO. 6.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

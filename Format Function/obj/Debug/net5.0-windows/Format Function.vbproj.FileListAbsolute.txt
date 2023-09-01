@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.exe
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.deps.json
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.runtimeconfig.json
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.dll
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\ref\Format Function.dll
+C:\Users\ASUS\source\repos\Format Function\bin\Debug\net5.0-windows\Format Function.pdb
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format_Function.Form1.resources
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.dll
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\ref\Format Function.dll
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.pdb
+C:\Users\ASUS\source\repos\Format Function\obj\Debug\net5.0-windows\Format Function.genruntimeconfig.cache

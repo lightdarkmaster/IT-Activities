@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\animal\animal\obj\Debug\netcoreapp3.1\animal.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\animal\animal\obj\Debug\netcoreapp3.1\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\animal\animal\obj\Debug\netcoreapp3.1\animal.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\animal\animal\obj\Debug\netcoreapp3.1\animal.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\animal\animal\obj\Debug\netcoreapp3.1\animal.vbproj.CoreCompileInputs.cache

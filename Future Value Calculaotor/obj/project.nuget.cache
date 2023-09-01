@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPEINYU6Qte3z8DzX4oOP7AMdC8Zgno7Um/1J+femlB4f+ol4rHPUdA5JSP+gmVXwHuUl+C7+KlhbPeznRMAog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Future Value Calculaotor\\Future Value Calculaotor.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

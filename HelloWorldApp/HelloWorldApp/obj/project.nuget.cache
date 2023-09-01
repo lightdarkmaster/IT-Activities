@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+kba7glkfAOZOdlCbMLXndEeVf1XUtIkUW9Rdey62cWz3w5gWQLtgnYm9Z0QVU1QtJfUcKypa965ZtOzWPLOiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\HelloWorldApp\\HelloWorldApp\\HelloWorldApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

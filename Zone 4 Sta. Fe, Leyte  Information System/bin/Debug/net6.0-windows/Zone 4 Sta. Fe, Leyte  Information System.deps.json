@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zone 4 Sta. Fe, Leyte  Information System/1.0.0": {
+        "runtime": {
+          "Zone 4 Sta. Fe, Leyte  Information System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zone 4 Sta. Fe, Leyte  Information System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.exe
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.deps.json
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.runtimeconfig.json
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.dll
+C:\Users\ASUS\source\repos\VBapp\VBapp\bin\Debug\netcoreapp3.1\VBapp.pdb
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.dll
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.pdb
+C:\Users\ASUS\source\repos\VBapp\VBapp\obj\Debug\netcoreapp3.1\VBapp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sJwoXu6n/cpGlRX+5+MreZIiBJ9I0Oh71ksmHhbKr+uWS4JnIpRajGis/1TJPCm8KNN2QVpSUZV3KPVSNT/6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

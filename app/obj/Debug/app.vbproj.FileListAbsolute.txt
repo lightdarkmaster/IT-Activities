@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\app\bin\Debug\app.dll
+C:\Users\ASUS\source\repos\app\bin\Debug\app.pdb
+C:\Users\ASUS\source\repos\app\bin\Debug\app.xml
+C:\Users\ASUS\source\repos\app\obj\Debug\app.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\app\obj\Debug\app.Resources.resources
+C:\Users\ASUS\source\repos\app\obj\Debug\app.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\app\obj\Debug\app.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\app\obj\Debug\app.dll
+C:\Users\ASUS\source\repos\app\obj\Debug\app.xml
+C:\Users\ASUS\source\repos\app\obj\Debug\app.pdb
+C:\Users\ASUS\source\repos\app\obj\Debug\app.Calculator.resources

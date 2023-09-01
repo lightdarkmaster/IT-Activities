@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.exe
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.deps.json
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.runtimeconfig.json
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.dll
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\ref\Math Functions.dll
+C:\Users\ASUS\source\repos\Math Functions\bin\Debug\net5.0-windows\Math Functions.pdb
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math_Functions.Form1.resources
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.dll
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\ref\Math Functions.dll
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.pdb
+C:\Users\ASUS\source\repos\Math Functions\obj\Debug\net5.0-windows\Math Functions.genruntimeconfig.cache

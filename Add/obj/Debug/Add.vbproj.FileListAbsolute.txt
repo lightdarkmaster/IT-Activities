@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.Form1.resources
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.Resources.resources
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Add\bin\Debug\Add.exe.config
+C:\Users\ASUS\source\repos\Add\bin\Debug\Add.exe
+C:\Users\ASUS\source\repos\Add\bin\Debug\Add.pdb
+C:\Users\ASUS\source\repos\Add\bin\Debug\Add.xml
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.exe
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.xml
+C:\Users\ASUS\source\repos\Add\obj\Debug\Add.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v159GjFD1/KgVu6AKpZJp0L3NYXo4sl/LL7LgyZ3EnBYRl//x7NQ06pkLLQwPM4v+aUoTYQjEheDS1yav6mkVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\tryforms\\tryforms.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

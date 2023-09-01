@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9FiKZlEjDV97NrQbYWy2PoURHMWn4m1A42X6668O5CgI9h9EWTZeVcsVcnzl6hkhJsQKqkCletzUn6Fp6GzsaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\FORMAT DATE AND TIME\\FORMAT DATE AND TIME.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

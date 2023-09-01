@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.exe
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.deps.json
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.runtimeconfig.json
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.dll
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\ref\SQRT FUNCTION.dll
+C:\Users\ASUS\source\repos\SQRT FUNCTION\bin\Debug\net5.0-windows\SQRT FUNCTION.pdb
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT_FUNCTION.Form1.resources
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.dll
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\ref\SQRT FUNCTION.dll
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.pdb
+C:\Users\ASUS\source\repos\SQRT FUNCTION\obj\Debug\net5.0-windows\SQRT FUNCTION.genruntimeconfig.cache

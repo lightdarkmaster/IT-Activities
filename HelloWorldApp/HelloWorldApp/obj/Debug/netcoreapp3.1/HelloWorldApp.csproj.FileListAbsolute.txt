@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.Form1.resources
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\ASUS\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache

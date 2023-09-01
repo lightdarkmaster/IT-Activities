@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.Form1.resources
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Activity3Oop\obj\Debug\netcoreapp3.1\Activity3Oop.vbproj.CoreCompileInputs.cache

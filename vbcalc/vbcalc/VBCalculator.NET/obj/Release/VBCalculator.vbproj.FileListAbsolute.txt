@@ -1,0 +1,16 @@
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\bin\VBCalculator.exe
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\bin\VBCalculator.xml
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\VBCalculator.frmCalculator.resources
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\VBCalculator.Resources.resources
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\VBCalculator.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\VBCalculator.exe
+C:\xampp\htdocs\2016\July\20\09-11-Calculator\prjCalculator.NET\obj\Release\VBCalculator.xml
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\VBCalculator.exe
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\VBCalculator.xml
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\bin\VBCalculator.exe
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\bin\VBCalculator.xml
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\ResolveAssemblyReference.cache
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\VBCalculator.frmCalculator.resources
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\VBCalculator.Resources.resources
+C:\xampp\htdocs\2016\July\20\vbcalc\prjCalculator.NET\obj\Release\VBCalculator.vbproj.GenerateResource.Cache

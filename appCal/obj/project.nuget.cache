@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PL5WPT451yrGjgnxJm5uSkJoftqlbQIRMIor0NoRemPEW0ZyrVgkzkngROvV+YLMcTUaF/1MmhRTxFnAF9uOHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\appCal\\appCal.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}

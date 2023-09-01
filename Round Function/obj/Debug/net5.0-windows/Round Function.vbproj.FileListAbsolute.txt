@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.exe
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.deps.json
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.runtimeconfig.json
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.dll
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\ref\Round Function.dll
+C:\Users\ASUS\source\repos\Round Function\bin\Debug\net5.0-windows\Round Function.pdb
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round_Function.Form1.resources
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.dll
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\ref\Round Function.dll
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.pdb
+C:\Users\ASUS\source\repos\Round Function\obj\Debug\net5.0-windows\Round Function.genruntimeconfig.cache

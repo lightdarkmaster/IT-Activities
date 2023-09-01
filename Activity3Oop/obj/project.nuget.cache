@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1EW1LnYpccR9zCNlVXXi108pb6DRIaAjkflWfeWD+0o39zjNSMr5HlKWEyWWiJVS5ESz7/JEgGgsrm1NvWxZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Activity3Oop\\Activity3Oop.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.exe
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.deps.json
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.runtimeconfig.json
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\ref\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Point Of Sale\bin\Debug\net5.0-windows\Point Of Sale.pdb
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point_Of_Sale.Form1.resources
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\ref\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.pdb
+C:\Users\ASUS\source\repos\Point Of Sale\obj\Debug\net5.0-windows\Point Of Sale.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point_Of_Sale.Form1.resources
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\ref\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.pdb
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.exe
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.deps.json
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.runtimeconfig.json
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\ref\Point Of Sale.dll
+C:\Users\ASUS\source\repos\Lab 6\bin\Debug\net5.0-windows\Point Of Sale.pdb
+C:\Users\ASUS\source\repos\Lab 6\obj\Debug\net5.0-windows\Point Of Sale.genruntimeconfig.cache

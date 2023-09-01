@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\ASUS\source\repos\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\ASUS\source\repos\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\ASUS\source\repos\SimpleApp\bin\Debug\SimpleApp.xml
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.WARNING.resources
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.Resources.resources
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.xml
+C:\Users\ASUS\source\repos\SimpleApp\obj\Debug\SimpleApp.pdb

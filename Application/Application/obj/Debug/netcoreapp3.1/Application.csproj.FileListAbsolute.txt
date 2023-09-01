@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\ASUS\source\repos\Application\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\ASUS\source\repos\Application\Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache

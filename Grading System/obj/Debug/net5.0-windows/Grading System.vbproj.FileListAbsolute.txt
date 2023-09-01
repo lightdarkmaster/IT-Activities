@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.exe
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.deps.json
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.runtimeconfig.json
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.dll
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\ref\Grading System.dll
+C:\Users\ASUS\source\repos\Grading System\bin\Debug\net5.0-windows\Grading System.pdb
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading_System.Form1.resources
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.dll
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\ref\Grading System.dll
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.pdb
+C:\Users\ASUS\source\repos\Grading System\obj\Debug\net5.0-windows\Grading System.genruntimeconfig.cache

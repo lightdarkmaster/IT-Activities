@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "chanresistorCalculator", "chanresistorCalculator.vbproj", "{E169B8DF-45AD-4238-8F16-2F9BAEBDB0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E169B8DF-45AD-4238-8F16-2F9BAEBDB0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E169B8DF-45AD-4238-8F16-2F9BAEBDB0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E169B8DF-45AD-4238-8F16-2F9BAEBDB0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E169B8DF-45AD-4238-8F16-2F9BAEBDB0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C566676E-9AEA-4F58-99D2-433972B4D2D4}
+	EndGlobalSection
+EndGlobal

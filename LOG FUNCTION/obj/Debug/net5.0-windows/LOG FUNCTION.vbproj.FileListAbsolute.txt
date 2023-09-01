@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.exe
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.deps.json
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.runtimeconfig.json
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.dll
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\ref\LOG FUNCTION.dll
+C:\Users\ASUS\source\repos\LOG FUNCTION\bin\Debug\net5.0-windows\LOG FUNCTION.pdb
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG_FUNCTION.Form1.resources
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.dll
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\ref\LOG FUNCTION.dll
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.pdb
+C:\Users\ASUS\source\repos\LOG FUNCTION\obj\Debug\net5.0-windows\LOG FUNCTION.genruntimeconfig.cache

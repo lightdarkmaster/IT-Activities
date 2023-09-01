@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6TZkCx+SEp3uItjulNzYSQIpQnax5L3gTs/+S6N3SkwgSfECTa7dPkxrzrQUEzop229cD5Jg4TOAUOvqZWWPYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Math function Fix\\Math function Fix.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p20nYeDrfeRu3gg5jZ0HjtHB1xMD29rs4O3d3MHYqUOO22WLOyEoM7wc88z5N7oq1UJKDMqBFEWGURcdvxsOJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Timer\\Timer.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

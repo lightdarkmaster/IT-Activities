@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.exe
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.deps.json
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.runtimeconfig.json
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.dll
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\ref\User defined Format.dll
+C:\Users\ASUS\source\repos\User defined Format\bin\Debug\net5.0-windows\User defined Format.pdb
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User_defined_Format.Form1.resources
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.dll
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\ref\User defined Format.dll
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.pdb
+C:\Users\ASUS\source\repos\User defined Format\obj\Debug\net5.0-windows\User defined Format.genruntimeconfig.cache

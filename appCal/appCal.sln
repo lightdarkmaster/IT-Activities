@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "appCal", "appCal.wapproj", "{527C79D3-0513-4F74-BD30-002B574F4A8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM.Build.0 = Debug|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x64.ActiveCfg = Debug|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x64.Build.0 = Debug|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x64.Deploy.0 = Debug|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x86.ActiveCfg = Debug|x86
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x86.Build.0 = Debug|x86
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Debug|x86.Deploy.0 = Debug|x86
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM.ActiveCfg = Release|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM.Build.0 = Release|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM.Deploy.0 = Release|ARM
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM64.Build.0 = Release|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|ARM64.Deploy.0 = Release|ARM64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x64.ActiveCfg = Release|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x64.Build.0 = Release|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x64.Deploy.0 = Release|x64
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x86.ActiveCfg = Release|x86
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x86.Build.0 = Release|x86
+		{527C79D3-0513-4F74-BD30-002B574F4A8D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B5BC6B0-B3AB-4938-9BCB-22FC2D598D75}
+	EndGlobalSection
+EndGlobal

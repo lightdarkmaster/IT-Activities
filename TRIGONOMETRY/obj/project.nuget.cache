@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDrahYWyMzrLCsRfpDV8jQf4q/YE6Mue/H2o2aJNsAipuKTMBsPMz0oWEPefDKyZ8Jf1P0jyKblI5+rylH+RUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\TRIGONOMETRY\\TRIGONOMETRY.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

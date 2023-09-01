@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.exe
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.deps.json
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.runtimeconfig.json
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.dll
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\ref\POS OOP.dll
+C:\Users\ASUS\source\repos\POS OOP\bin\Debug\net5.0-windows\POS OOP.pdb
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS_OOP.Form1.resources
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.dll
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\ref\POS OOP.dll
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.pdb
+C:\Users\ASUS\source\repos\POS OOP\obj\Debug\net5.0-windows\POS OOP.genruntimeconfig.cache

@@ -1,0 +1,54 @@
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\bin\Debug\Calculator.xml
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.xml
+C:\Documents and Settings\Elhad\Local Settings\Application Data\Temporary Projects\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Assadillah\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Assadillah.PC-de-Assadilla\Desktop\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Assadillah.PC-de-Assadilla\Desktop\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Assadillah.PC-de-Assadilla\Desktop\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Vb diff projet\Documents\Visual Studio 2008\Projects\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Assad\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Assad\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Assad\Desktop\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Assad\Desktop\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\ASUS\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\ASUS\source\repos\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.xml
+C:\Users\ASUS\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb

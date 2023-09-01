@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.exe
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.deps.json
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.runtimeconfig.json
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.dll
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\ref\FORMAT DATE AND TIME.dll
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\bin\Debug\net5.0-windows\FORMAT DATE AND TIME.pdb
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT_DATE_AND_TIME.Form1.resources
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.dll
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\ref\FORMAT DATE AND TIME.dll
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.pdb
+C:\Users\ASUS\source\repos\FORMAT DATE AND TIME\obj\Debug\net5.0-windows\FORMAT DATE AND TIME.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.exe
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.deps.json
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.runtimeconfig.json
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.dll
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\ref\EXPONENTIAL VALUE.dll
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\bin\Debug\net5.0-windows\EXPONENTIAL VALUE.pdb
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL_VALUE.Form1.resources
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.dll
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\ref\EXPONENTIAL VALUE.dll
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.pdb
+C:\Users\ASUS\source\repos\EXPONENTIAL VALUE\obj\Debug\net5.0-windows\EXPONENTIAL VALUE.genruntimeconfig.cache

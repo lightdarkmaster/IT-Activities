@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\csharp\bin\Debug\csharp.exe.config
+C:\Users\ASUS\source\repos\csharp\bin\Debug\csharp.exe
+C:\Users\ASUS\source\repos\csharp\bin\Debug\csharp.pdb
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.Form1.resources
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.exe
+C:\Users\ASUS\source\repos\csharp\obj\Debug\csharp.pdb

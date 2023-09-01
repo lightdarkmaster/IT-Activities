@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.exe
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.deps.json
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.runtimeconfig.json
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.dll
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\ref\Math Functiom Fix.dll
+C:\Users\ASUS\source\repos\Math Functiom Fix\bin\Debug\net5.0-windows\Math Functiom Fix.pdb
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math_Functiom_Fix.Form1.resources
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.dll
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\ref\Math Functiom Fix.dll
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.pdb
+C:\Users\ASUS\source\repos\Math Functiom Fix\obj\Debug\net5.0-windows\Math Functiom Fix.genruntimeconfig.cache

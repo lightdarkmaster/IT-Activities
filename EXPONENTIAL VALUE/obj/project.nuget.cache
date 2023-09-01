@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPiY5/OoFWFUDeRB1QUI9Ys/wvv5EIxkEVK0zXVuv/oKfYGFT/bw5M5NrjzkC1OyvWUZPVJjSrBpvLoju3qb+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\EXPONENTIAL VALUE\\EXPONENTIAL VALUE.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

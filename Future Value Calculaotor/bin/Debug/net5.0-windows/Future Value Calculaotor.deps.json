@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Future Value Calculaotor/1.0.0": {
+        "runtime": {
+          "Future Value Calculaotor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Future Value Calculaotor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

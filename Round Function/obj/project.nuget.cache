@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DBZjpCqg8F1MK6K9dBbGTMBXtKBgIvwPtx1GGqVY1NLz8l0GlMbN8X7Mi2eC0Dtug/VsZXU4N+lXVcF+NUYYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Round Function\\Round Function.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

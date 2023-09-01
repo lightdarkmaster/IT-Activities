@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzeKJ1mWVbVJJSiSzBl8AIg3WmeaU8ABwymXMIvewfxnIlIxgzuUXTEFKYHO2U0YsckECQqIVvvRWjQ3Dkmmjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Format Function\\Format Function.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

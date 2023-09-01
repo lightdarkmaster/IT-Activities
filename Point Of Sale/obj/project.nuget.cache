@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+NW2jbmmYaS+9JAaPE8xVgSzS7sal86QsWxht/ZPp7cxUIuanS1AymiiPV2mMBpVXIW1pjNug1ub7rj7wQedg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Point Of Sale\\Point Of Sale.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

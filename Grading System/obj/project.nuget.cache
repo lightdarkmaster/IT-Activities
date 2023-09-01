@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdjXtXKNJK1JfFM9s1BdjDj6tQa96kFZPTGQZMZmDtgDEXEh5a1nbyF9jGLEC1Dxg7kHKjyZlxBAL/sWKuAtgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Grading System\\Grading System.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

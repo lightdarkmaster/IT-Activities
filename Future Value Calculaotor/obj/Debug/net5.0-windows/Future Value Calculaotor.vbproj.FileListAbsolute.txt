@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.exe
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.deps.json
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.runtimeconfig.json
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.dll
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\ref\Future Value Calculaotor.dll
+C:\Users\ASUS\source\repos\Future Value Calculaotor\bin\Debug\net5.0-windows\Future Value Calculaotor.pdb
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.vbproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future_Value_Calculaotor.Form1.resources
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.AssemblyInfo.vb
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.dll
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\ref\Future Value Calculaotor.dll
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.pdb
+C:\Users\ASUS\source\repos\Future Value Calculaotor\obj\Debug\net5.0-windows\Future Value Calculaotor.genruntimeconfig.cache

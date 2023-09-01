@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jul93+Gy+ypkXj86qEFiBwwq/v85KdJiG0n8goqtsMrH2FrI5NSAhge0A/QX28IUgpDnW82OKGBOK5df211hXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\POS OOP\\POS OOP.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
